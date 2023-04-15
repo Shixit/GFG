@@ -1,2 +1,2 @@
 # GFG
-Some questions I have done on Geeksofgeeks
+Some questions I have done on Geeksforgeeks
