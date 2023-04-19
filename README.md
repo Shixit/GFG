@@ -1,2 +1,2 @@
 # GFG
-Some questions I have done on Geeksforgeeks
+Some basic questions I did on Geeksforgeeks while beginning my coding journey.
